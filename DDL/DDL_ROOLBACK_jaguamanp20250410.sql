@@ -1,0 +1,7 @@
+
+
+DROP TABLE IF EXISTS usuarios;
+DROP TABLE IF EXISTS roles;
+DROP TABLE IF EXISTS area_trabajo;
+DROP TABLE IF EXISTS jornadas;
+DROP TABLE IF EXISTS marcaciones;
